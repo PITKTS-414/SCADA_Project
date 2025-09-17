@@ -1,7 +1,7 @@
 
 # PLC + HMI Project Repository
 
-This repository contains supporting materials for a PLC + HMI project.  
+This repository contains supporting materials for a PLC + HMI project. This is NOT intended to be source code, just a reference archive!
 
 ---
 
